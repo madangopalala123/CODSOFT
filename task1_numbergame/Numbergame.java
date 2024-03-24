@@ -1,3 +1,4 @@
+package task1_numbergame;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
